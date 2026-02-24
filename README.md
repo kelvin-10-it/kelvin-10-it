@@ -1,0 +1,2 @@
+[![Kelvin's github stats](https://github-readme-stats-venipa.vercel.app/api?username=kelvin-10-it&count_private=true&theme=neon&hide_border=true&show_icons=true&show=prs_merged)](https://github.com/kelvin-10-it)
+[![Top Langs](https://github-readme-stats-venipa.vercel.app/api/top-langs/?username=kelvin-10-it&layout=donut&theme=neon&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
